@@ -17,4 +17,4 @@ def hello_world():
     col = db["userInfo"]
     cursor = col.find({},{'_id':0})
     result = [item for item in cursor]
-    return 'Hello, World!'
+    return result
