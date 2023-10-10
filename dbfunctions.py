@@ -9,6 +9,7 @@ def dbconnect():
         # Create a MongoDB client
         client = MongoClient(connection_string)
         db = client["Crud_2023"]
+	return db
 
 
 def find_latest_in_collection_sort(collection,sort_arr):
