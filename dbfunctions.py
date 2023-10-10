@@ -27,12 +27,12 @@ def find_all_collection(collection):
 	return result 
 
 def find_one_in_collection(collection,arr):
-        print(collection,arr)
+        
         db=dbconnect()
         col = db[collection]
         cursor = col.find(arr,{'_id':0})
         result = [item for item in cursor]
-        print(result)
+        
         return result
 
 
