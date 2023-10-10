@@ -9,7 +9,7 @@ def dbconnect():
         # Create a MongoDB client
         client = MongoClient(connection_string)
         db = client["Crud_2023"]
-	return db
+        return db
 
 
 def find_latest_in_collection_sort(collection,sort_arr):
@@ -21,11 +21,11 @@ def find_latest_in_collection_sort(collection,sort_arr):
         return result
 
 def find_all_collection(collection):
-	db = dbconnect()
-	col = db[collection]
-	cursor = col.find({},{'_id':0})
-	result = [item for item in cursor]
-	return result 
+        db = dbconnect()
+        col = db[collection]
+        cursor = col.find({},{'_id':0})
+        result = [item for item in cursor]
+        return result 
 
 def find_one_in_collection(collection,arr):
         
