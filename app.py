@@ -129,7 +129,7 @@ def get_Singletemplate(templateid:str):
     if current_user is None :
             abort(401)
 
-    arr = {"templateId" : templateid,"created_by":current_user}
+    arr = {"templateId" : int(templateid),"created_by":current_user}
 
     all_templates = find_one_in_collection("templates",arr)
     return all_templates
