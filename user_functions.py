@@ -36,3 +36,9 @@ def gentemplateId():
     else:
         tempid = 1
     return tempid
+
+def isuserExist(username):
+    user = find_one_in_collection("userInfo",{"email":username})
+    if not user:
+        return False
+    return True
