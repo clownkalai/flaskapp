@@ -28,7 +28,7 @@ def user_register():
     user_check = isuserExist(username)
     if user_check:
         response ={"status": "Failed!","message":"User is already registered!"}
-        return response ,422
+        return response
     hash_password = get_password_hash(str(data.get("password")))
     user_data ={
             "first_name":data.get("first_name"),
