@@ -24,6 +24,11 @@ def get_allUsers():
 @app.route('/register',methods=['POST'])
 def user_register():
     data = request.json
+    username = str(data.get("email")).strip()
+    user_check = isuserExist(username)
+    if user_check:
+        response ={"status": "Failed!","message":"User is already registered!"}
+        return response ,422
     hash_password = get_password_hash(str(data.get("password")))
     user_data ={
             "first_name":data.get("first_name"),
