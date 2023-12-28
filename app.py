@@ -208,3 +208,5 @@ def unauthorized_error_handler(error):
     for header, value in unauthorized_headers.items():
         response.headers[header] = value
     return response
+if __name__ == "__main__":
+    application.run(host="0.0.0.0",debug=True)
