@@ -6,6 +6,9 @@ import mail_config
 from flask_jwt_extended import JWTManager, jwt_required, create_access_token, get_jwt_identity
 
 
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 app = Flask(__name__)
 app.config['JWT_SECRET_KEY'] = '09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7' 
 jwt = JWTManager(app)
