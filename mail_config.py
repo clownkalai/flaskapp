@@ -1,3 +1,6 @@
+sender_email = 'arasankalai512@gmail.com'
+app_password = 'adgx cmec qkmm mbos'
+receiver_email = 'kalaiyarasan@spiceblue.com'
 
 welcome_email_subject = 'Welcome to Good Turn - Registration Success'
 welcome_email = """
