@@ -542,3 +542,5 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
 
 
 """
+register_mail_subject ="New Registration - Good Turn"
+register_email=""" Email for registerted........."""
