@@ -1,7 +1,7 @@
 sender_email = 'goodturnpublicist23@gmail.com'
 #backup_app_password = 'adgx cmec qkmm mbos'
 app_password = 'iiad aaeg qkak zwlt'
-
+admin_email ='editor@gtpublicist.org'
 
 welcome_email_subject = 'Welcome to Good Turn - Registration Success'
 welcome_email = """
