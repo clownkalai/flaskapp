@@ -279,7 +279,7 @@ def mailSend():
         Thanks <br>
         Good Turn
         """
-      send_email(mail_config.sender_email,admin_subject, admin_message_body,reply=True,reply_to_email=client_mail_id)
+      send_email(mail_config.admin_email,admin_subject, admin_message_body,reply=True,reply_to_email=client_mail_id)
     
         
       return "success"
