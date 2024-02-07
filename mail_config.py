@@ -175,7 +175,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <tr>
     <td style="padding-right: 0px;padding-left: 0px;" align="center">
       
-      <img align="center" border="0" src="https://kalaiyarasan-dontdelete.s3.us-east-2.amazonaws.com/image-1.jpg" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 29%;max-width: 168.2px;" width="168.2"/>
+      <img align="center" border="0" src="https://goodturn.s3.us-east-2.amazonaws.com/image-1.jpg" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 29%;max-width: 168.2px;" width="168.2"/>
       
     </td>
   </tr>
@@ -218,7 +218,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <tr>
     <td style="padding-right: 0px;padding-left: 0px;" align="center">
       
-      <img align="center" border="0" src="https://kalaiyarasan-dontdelete.s3.us-east-2.amazonaws.com/image-2.png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 60%;max-width: 100px;" width="58"/>
+      <img align="center" border="0" src="https://goodturn.s3.us-east-2.amazonaws.com/image-2.png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 60%;max-width: 100px;" width="58"/>
       
     </td>
   </tr>
@@ -306,21 +306,21 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   </tbody>
 </table>
 
-<table style="font-family:'serif';" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+<!-- <table style="font-family:'serif';" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
   <tbody>
     <tr>
       <td style="overflow-wrap:break-word;word-break:break-word;padding:40px 40px 30px;font-family:'serif';" align="left">
         
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
-    <p style="font-size: 14px; line-height: 140%;"><span style="color: #888888; font-size: 14px; line-height: 19.6px;"><em><span style="font-size: 16px; line-height: 22.4px;">Please note that this is a system-generated email, and replies to this message will not be monitored./span></em></span><br /><span style="color: #888888; font-size: 14px; line-height: 19.6px;"><em><span style="font-size: 16px; line-height: 22.4px;">&nbsp;</span></em></span></p>
+    <p style="font-size: 14px; line-height: 140%;"><span style="color: #888888; font-size: 14px; line-height: 19.6px;"><em><span style="font-size: 16px; line-height: 22.4px;">Please note that this is a system-generated email, and replies to this message will not be monitored.</span></em></span><br /><span style="color: #888888; font-size: 14px; line-height: 19.6px;"><em><span style="font-size: 16px; line-height: 22.4px;">&nbsp;</span></em></span></p>
   </div>
 
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
-  <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+  </div>
   </div>
 </div>
 <!--[if (mso)|(IE)]></td><![endif]-->
@@ -348,10 +348,11 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
     <tr>
       <td style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'serif';" align="left">
         
-  <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
-    <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Mcwhorter Road, FL 11223</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@company.com</span></p>
+  <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;"> 
+    
+    <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: white;"><u>Contact</u></span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: yellow;">Avadi &nbsp;Chennai,Tamilnadu,India.</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: yellow;"> +91 9360738853  editor@gtpublicist.org</span></p>
   </div>
 
       </td>
@@ -382,7 +383,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
     <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px">
       <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
         <a href=" " title="Facebook" target="_blank">
-          <img src="images/image-3.png" alt="Facebook" title="Facebook" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+          <img src="https://goodturn.s3.us-east-2.amazonaws.com/image-3.png" alt="Facebook" title="Facebook" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
         </a>
       </td></tr>
     </tbody></table>
@@ -392,7 +393,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
     <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px">
       <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
         <a href=" " title="Twitter" target="_blank">
-          <img src="images/image-4.png" alt="Twitter" title="Twitter" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+          <img src="https://goodturn.s3.us-east-2.amazonaws.com/image-4.png" alt="Twitter" title="Twitter" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
         </a>
       </td></tr>
     </tbody></table>
@@ -402,7 +403,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
     <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px">
       <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
         <a href=" " title="Instagram" target="_blank">
-          <img src="images/image-6.png" alt="Instagram" title="Instagram" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+          <img src="https://goodturn.s3.us-east-2.amazonaws.com/image-1.png" alt="Instagram" title="Instagram" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
         </a>
       </td></tr>
     </tbody></table>
@@ -412,7 +413,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
     <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px">
       <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
         <a href=" " title="LinkedIn" target="_blank">
-          <img src="images/image-5.png" alt="LinkedIn" title="LinkedIn" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+          <img src="https://goodturn.s3.us-east-2.amazonaws.com/image-5.png" alt="LinkedIn" title="LinkedIn" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
         </a>
       </td></tr>
     </tbody></table>
@@ -434,7 +435,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
       <td style="overflow-wrap:break-word;word-break:break-word;padding:5px 10px 10px;font-family:'serif';" align="left">
         
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
-    <p style="line-height: 140%; font-size: 14px;"><span style="font-size: 14px; line-height: 19.6px;"><span style="color: #ecf0f1; font-size: 14px; line-height: 19.6px;"><span style="line-height: 19.6px; font-size: 14px;">Company &copy;&nbsp; All Rights Reserved</span></span></span></p>
+    <p style="line-height: 140%; font-size: 14px;"><span style="font-size: 14px; line-height: 19.6px;"><span style="color: yellow; font-size: 14px; line-height: 19.6px;"><span style="line-height: 19.6px; font-size: 10px;"> &copy;2023&nbsp; GoodTurn. All Rights Reserved.</span></span></span></p>
   </div>
 
       </td>
