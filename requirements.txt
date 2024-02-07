@@ -3,3 +3,4 @@ gunicorn
 Flask-JWT-Extended
 pymongo
 passlib[bcrypt]
+flask-cors
