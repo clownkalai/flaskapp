@@ -5,7 +5,7 @@ from dbfunctions import *
 import mail_config
 from flask_jwt_extended import JWTManager, jwt_required, create_access_token, get_jwt_identity
 
-
+from flask_cors import CORS
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
